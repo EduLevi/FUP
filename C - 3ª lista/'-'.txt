@@ -1,0 +1,93 @@
+1. Faça um programa que mostre os cinco primeiros múltiplos de 3, considerando números maiores
+que 0.
+2. Escreva um programa que escreva na tela, de 1 até 100, de 1 em 1, 3 vezes. A primeira vez deve
+usar a estrutura de repetição for, a segunda while, e a terceira do while.
+3. Faça um algoritmo utilizando o comando while que mostra uma contagem regressiva na tela,
+iniciando em 10 e terminando em 0.
+4. Escreva um programa que declare um inteiro, inicialize-o com 0, e incremente-o de 1000 em
+1000, imprimindo seu valor na tela, até que seu valor seja 100000 (cem mil).
+5. Faça um programa que receba um número inteiro maior do que 1, e verifique se o número
+fornecido é primo ou não.
+6. Faça um programa que conte quantos números primos existem entre a e b, onde a e b são números
+informados pelo usuário.
+7. Faça um programa que peça ao usuário para digitar 10 valores e some-os.
+8. Faça um programa que leia 10 inteiros e imprima sua média.
+9. Faça um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua média.
+10. Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido.
+11. Faça um programa que leia um número inteiro N e depois imprima os N primeiros números
+naturais ímpares.
+12. Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
+13. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de
+0 até N em ordem crescente.
+14. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de
+0 até N em ordem decrescente.
+15. Faça um programa que leia um número inteiro positivo par N e imprima todos os números pares
+de 0 até N em ordem crescente.
+16. Faça um programa que leia um número inteiro positivo ímpar N e imprima todos os números
+ímpares de 1 até N em ordem decrescente.
+17. Faça um programa que leia um número inteiro positivo n e calcule a soma dos n primeiros
+números naturais.
+18. Escreva um algoritmo que leia um número inteiro entre 100 e 999 e imprima na saída cada um
+dos algarismos que compõem o número.
+19. Ler uma sequência de números inteiros e determinar se eles são pares ou não. Deverá ser
+informado o número de dados lidos e número de valores pares. O processo termina quando for
+digitado o número 1000.
+20. Faça um programa que receba dois números. Calcule e mostre:
+○ a soma dos números pares desse intervalo de números, incluindo os números digitados;
+○ a multiplicação dos números ímpares desse intervalo, incluindo os digitados;
+21. Faça um algoritmo que leia um número positivo e imprima seus divisores.
+22. Escreva um programa que leia um número inteiro e calcule a soma de todos os divisores desse
+número, com exceção dele próprio. Ex: a soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 +
+22 + 33 = 78
+23. Faça um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 ou
+5.
+24. Faça um programa que calcula o fatorial de um número positivo.
+25. Em Matemática, o número harmônico designado por H(n) define-se como sendo a soma da séerie
+harmónica:
+○ H(n) = 1 + 1/2 + 1/3 + 1/4 + … + 1/n
+Faça um programa que leia um valor n inteiro e positivo e apresente o valor de H(n).
+26. Faça um programa que leia um valor N inteiro e positivo, calcule e mostre o valor E, conforme a
+fórmula a seguir
+○ E = 1 + 1/2! + 1/3! + 1/4! + … + 1/n!
+27. Faça um programa que calcule e escreva o valor de S
+○ S = 1/1 + 3/2 + 5/3 + 7/4 + … + 99/50
+28. Faça um programa que some os números ímpares contidos em um intervalo definido pelo usuário.
+O usuário define o valor inicial do intervalo e o valor final deste intervalo e o programa deve
+somar todos os números ímpares contidos neste intervalo. Caso o usuário digite um intervalo
+inválido (começando por um valor maior que o valor final) deve ser escrito uma mensagem de
+erro na tela, “Intervalo de valores inválido” e o programa termina. Exemplo de tela de saída:
+○ Digite o valor inicial e valor final: 5 10
+○ Soma dos ímpares neste intervalo: 21
+29. Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 100
+números naturais e o quadrado da soma. Exemplo:
+○ A soma dos quadrados dos dez primeiros números naturais é:
+(1
+2 + 2
+2 + ... + 10
+2
+) = 385
+○ O quadrado da soma dos dez primeiros números naturais é:
+(1 + 2 + ... + 10)
+2 = 3025
+A diferença entre a soma dos quadrados dos dez primeiros números naturais e o quadrado da
+soma é: 3025-385 = 2640.
+30. Faça um programa que leia um número indeterminado de idades de indivíduos (pare quando for
+informada a idade 0) e calcule a idade média desse grupo.
+31. Leia um número positivo do usuário, então, calcule e imprima a sequência Fibonacci até o
+primeiro número superior ao número lido. Exemplo: se o usuário informou o número 30, a
+sequência a ser impressa será 0 1 1 2 3 5 8 13 21 34.
+32. Faça um algoritmo que converta uma velocidade expressa em km/h para m/s e vice versa. Você
+deve criar um menu com as duas opções de conversão e com uma opção para finalizar o
+programa. O usuário poderá fazer quantas conversões desejar, sendo que o programa só será
+finalizado quando a opção de finalizar for escolhida.
+33. Chico tem 1.50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1.10 metros e cresce 3
+centímetros por ano. Escreva um programa que calcule e imprima quantos anos serão necessários
+para que Zé seja maior que Chico.
+34. Escreva um programa que leia um número inteiro positivo n e em seguida imprima n linhas do
+chamado Triângulo de Floyd. Para n = 6, temos:
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 21

@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "C - Fundamentos da PROGRAMAÇÃO de COMPUTADORES",
+			"path": "C - Fundamentos da PROGRAMAÇÃO de COMPUTADORES"
+		},
+		{
+			"name": "C - 1ª lista",
+			"path": "C - 1ª lista"
+		},
+		{
+			"name": "C - 2ª lista",
+			"path": "C - 2ª lista"
+		},
+		{
+			"name": "C - 3ª lista",
+			"path": "C - 3ª lista"
+		},
+		{
+			"name": "C - '-'",
+			"path": "C - '-'"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}

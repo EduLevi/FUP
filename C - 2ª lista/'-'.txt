@@ -1,0 +1,87 @@
+1. Faça um programa que leia um número e informe se ele é igual a zero.
+2. Faça um programa que leia um número e informe se ele é positivo.
+3. Faça um programa que receba dois números e mostre qual deles é o maior.
+4. Leia um número fornecido pelo usuário. Se esse número for positivo, calcule a raiz quadrada do
+número. Se o número for negativo, mostre uma mensagem dizendo que o número é inválido.
+5. Leia um número real. Se o número for positivo imprima a raiz quadrada. Do contrário, imprima o
+número ao quadrado.
+6. Faça um programa que leia um número e, caso ele seja positivo, calcule e mostre:
+○ O número digitado ao quadrado
+○ A raiz quadrada do número digitado
+7. Faça um programa que receba um número inteiro e verifique se este número é par ou ímpar.
+8. Escreva um programa que, dados dois números inteiros, mostre na tela o maior deles, assim como
+a diferença existente entre ambos.
+9. Faça um programa que receba dois números e mostre o maior. Se por acaso, os dois números
+forem iguais, imprima a mensagem: números iguais.
+10. Faça um programa que leia duas notas de um aluno, verifique se as notas são válidas e exiba na
+tela a média destas notas. Uma nota válida deve ser, obrigatoriamente, um valor entre 0.0 e 10.0,
+onde caso a nota não possua um valor válido, este fato deve ser informado ao usuário e o
+programa termina.
+11. Leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for
+maior que 20% do salário imprima: Emprestimo não concedido, caso contrário imprima:
+Emprestimo concedido.
+12. Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal,
+utilizando as seguintes fórmulas (onde h corresponde a altura):
+○ Homens: (72.7 * h) - 58
+○ Mulheres: (62.1 * h) - 44.7
+13. Escreva um programa que leia um número inteiro de três algarismos maior do que zero e devolva,
+na tela, a soma de todos os seus algarismos. Por exemplo, ao número 251 corresponderá ao valor
+8 (2 + 5 + 1). Se o número lido não for maior do que zero, o programa terminará com a
+mensagem: número invalido.
+14. Ler um número inteiro. Se o número lido for negativo, escreva a mensagem: número invalido. Se
+o número for positivo, calcular o logaritmo na base 10 deste número.
+15. Faça um algoritmo que calcule a média ponderada das notas de 3 provas. A primeira e a segunda
+prova têm peso 1 e a terceira tem peso 2. Ao final, mostrar a média do aluno e indicar se o aluno
+foi aprovado ou reprovado. A nota para aprovação deve ser igual ou superior a 60 pontos.
+16. A nota final de um estudante é calculada a partir de três notas atribuídas entre o intervalo de 0 até
+10, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final.
+A média das três notas mencionadas anteriormente obedece aos pesos: Trabalho de Laboratório:
+2; Avaliação Semestral: 3; Exame Final: 5. De acordo com o resultado, mostre na tela se o aluno
+está reprovado (média entre 0 e 2,9), de recuperação (entre 3 e 4,9) ou se foi aprovado. Faça todas
+as verificações necessárias.
+17. Usando switch, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana
+correspondente a este número. Isto é, domingo se 1, segunda-feira se 2, e assim por diante.
+18. Usando switch, escreva um programa que leia um inteiro entre 1 e 12 e imprima o mês
+correspondente a este número. Isto é, janeiro se 1, fevereiro se 2, e assim por diante.
+19. Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que:
+○ A = (basemaior + basemenor) * altura / 2
+Lembre-se a base maior e a base menor devem ser números maiores que zero.
+20. Faça um programa que mostre ao usuário um menu com 4 opções de operações matemáticas (as
+básicas, por exemplo). O usuário escolhe uma das opções e o seu programa então pede dois
+valores numéricos e realiza a operação, mostrando o resultado e saindo.
+21. Faça um programa para verificar se um determinado número inteiro é divisível por 3 ou 5, mas
+não simultaneamente pelos dois.
+22. Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo e, se
+forem, se é um triângulo escaleno, equilátero ou isóscele.
+23. Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As
+condições para aposentadoria são:
+○ Ter pelo menos 65 anos;
+○ Ou ter trabalhado pelo menos 30 anos;
+○ Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos.
+24. Determine se um determinado ano lido é bissexto. Sendo que um ano é bissexto se for divisível
+por 400 ou se for divisível por 4 e não for divisível por 100. Por exemplo: 1988, 1992, 1996
+25. Calcule as raízes da equação de 2o grau.
+26. Leia a distância em Km e a quantidade de litros de gasolina consumidos por um carro em um
+percurso, calcule o consumo em Km/l e escreva uma mensagem de acordo com a tabela abaixo:
+CONSUMO Km/l MENSAGEM
+menor que 8 Venda o carro!
+entre 8 e 14 Econômico!
+maior que 14 Super econômico
+27. Faça uma prova de matemática para crianças que estão aprendendo a somar números inteiros
+menores do que 100. Escolha números aleatórios entre 1 e 100, e mostre na tela a pergunta: qual é
+a soma de a + b, onde a e b são os números aleatórios. Peça a resposta. Faça cinco perguntas ao
+aluno, e mostre para ele as perguntas e as respostas corretas, além de quantas vezes o aluno
+acertou.
+28. Faça um programa que receba três números e mostre-os em ordem crescente.
+29. Leia uma data e determine se ela é válida. Ou seja, verifique se o mês está entre 1 e 12, e se o dia
+existe naquele mês. Note que Fevereiro tem 29 dias em anos bissextos, e 28 dias em anos não
+bissextos.
+30. Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação de acordo com a
+tabela abaixo:
+IMC Classificação
+< 18.5 Abaixo do peso
+18.6 - 24.9 Saudável
+25.0 - 29.9 Peso em excesso
+30.0 - 34.9 Obesidade Grau I
+35.0 - 39.9 Obesidade Grau II
+>= 40.0 Obesidade Grau III
