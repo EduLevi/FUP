@@ -9,7 +9,13 @@
 
 int main()
 {
-    
+    int v1[8], x, y, i=0;
+    for(i; i<8; i++)
+    {
+        scanf("%d", &v1[i]);
+    }
+    scanf("%d %d", &x, &y);
+    printf("%d + %d = %d", x, y, x+y);
     return 0;
 }
 
