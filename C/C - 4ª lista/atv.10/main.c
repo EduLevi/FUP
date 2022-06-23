@@ -8,7 +8,7 @@
 
 int main()
 {
-    int n, v1[4], media, i;
+    int n, v1[4], media = 0, i;
     for (i = 0; i < 5; i++)
     {
         scanf("%d", &n);

@@ -8,7 +8,7 @@
 
 int main()
 {
-    float v1[9], soma, nega = 0, n;
+    float v1[9], soma = 0, nega = 0, n;
     int i;
     for (i = 0; i < 10; i++)
     {
@@ -22,7 +22,7 @@ int main()
             soma += v1[i];
         }
     }
-    printf("\nQuantia de numeros negativos no vetor: %.0f", nega);
+    printf("\nQuantia de numeros negativos no vetor: %.f", nega);
     printf("\nSoma: %.2f", soma);
     
     return 0;
