@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void partida_vitoria() //
+//função usada caso o jogador ganhe uma partida.
+void partida_vitoria()
 {
     //cria variavel ponteiro para o arquivo historico.txt
     FILE *pont_arq_historico; 
@@ -21,6 +22,7 @@ void partida_vitoria() //
     fclose(pont_arq_historico);
 }
 
+//função usada caso acesse o menu Palavras.
 void palavras()
 {
     printf("As palavras disponiveis sao:\n\n");
@@ -41,6 +43,7 @@ void palavras()
     fclose(pont_arq_palavras);
 }
 
+//função para adicionar palavras ao arquivo palavras.txt
 void add_palavra()
 {
     FILE *pont_arq_palavras; // cria variável ponteiro para o arquivo
@@ -62,6 +65,7 @@ void add_palavra()
     printf("Palavra(s) adicionada(s) com sucesso!");
 }
 
+//função usada quando acesso o menu Hitorico.
 void historico()
 {
     printf("Hitorico das partidas:\n\n");
@@ -81,6 +85,7 @@ void historico()
     fclose(pont_arq_historico);
 }
 
+////////////////////////////////////////////////////////////////////////////////Main////////////////////////
 int main()
 {
     
